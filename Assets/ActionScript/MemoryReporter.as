@@ -9,7 +9,7 @@ package
 	    }
 
 	    private static function PrettyMemSize(Size: Number): String {
-	    	var unit = "";
+	    	var unit : String = "";
 	    	if (Size > 1000) {
 	    		unit = "k";
 	    		Size = Size / 1000;
