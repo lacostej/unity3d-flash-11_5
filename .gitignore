@@ -1,0 +1,16 @@
+
+# /
+Temp
+Library
+target
+test-results
+obj
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.userprefs
+*.patch
+*.log
+*.pyc
+
