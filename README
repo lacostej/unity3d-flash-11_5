@@ -1,0 +1,2 @@
+This repo shows how to enable building target to flash 11_5 on Unity 4.2
+This allows in particular to obtain stack traces on screen without the content debugger.
